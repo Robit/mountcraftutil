@@ -2,7 +2,7 @@
  A commissioned utility plugin for the Spigot API that allows for entity mounting and opening crafting tables via datapack functions
 
 Commands:
-/mount <entitySelector> - Mounts the executor of the command as a passenger of the entity selected. Compatible with Vanilla Entity Selectors (@a, @p[distance=..5], etc.) and /execute.
+/mount (entity) - Mounts the executor of the command as a passenger of the entity selected. Compatible with Vanilla Entity Selectors (@a, @p[distance=..5], etc.) and /execute.
 
 /crafting - Opens a portable crafting table for the executor of the command. Compatible with /execute.
 
