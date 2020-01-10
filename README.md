@@ -1,5 +1,5 @@
 # mountcraftutil
- A commissioned utility that allows for entity mounting and opening crafting tables via datapack functions
+ A commissioned utility plugin for the Spigot API that allows for entity mounting and opening crafting tables via datapack functions
 
 Commands:
 /mount <entitySelector> - Mounts the executor of the command as a passenger of the entity selected. Compatible with Vanilla Entity Selectors (@a, @p[distance=..5], etc.) and /execute.
